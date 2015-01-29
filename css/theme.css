@@ -133,3 +133,33 @@ html,body {
   height: 62px;
 
 }
+
+.tint {
+  height: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.tint85 {
+  opacity: .85;
+}
+
+.tint70 {
+  opacity: .7;
+}
+
+.tint55 {
+  opacity: .55;
+}
+
+.tint40 {
+  opacity: .40;
+}
+
+.tint25 {
+  opacity: .25;
+}
+
+.tint10 {
+  opacity: .10;
+}
