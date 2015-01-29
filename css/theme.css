@@ -129,6 +129,10 @@ html,body {
   float: right;
 }
 
+.whole {
+  height: 125px;
+}
+
 .righthalf {
   height: 62px;
 
